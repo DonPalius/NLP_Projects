@@ -1,0 +1,739 @@
+Sinatra
+Nick Mason
+Eddie Higgins
+Mayer
+Bonnie Bramlett
+Slim Whitman
+Stang
+Chris Spedding
+Gibson Les Paul
+Percy Sledge
+Billy Preston
+Hoyer
+Beverley Craven
+Kaiserkeller
+Tim Commerford
+Ivry Gitlis
+Nicki Minaj
+Mack
+Archie Campbell
+Ellington
+Henri Baumgartner
+Antipop
+Ricky Hopper
+Intégrale Django Reinhardt
+George
+Émile Savitry
+Se Dice Bisonte
+Chas Chandler
+Johnny Jenkins
+Brian Jones
+David Crosby
+Jimi
+Edward Teague
+Robben Ford
+Tom Waits
+Glanzrock
+Rhoads
+Anthrax
+Godzilla
+Mark
+Valerie Bertinelli
+John Carpenter's
+Manfred Mann
+Rod Wyatt
+Johnny Depp
+Francis Charles Coppicus
+Mitch Mitchell
+Paul
+Donald
+Maurice Chaumel
+Jack
+Sammy Drain
+Eddie
+Paul Butterfield
+Muddy Waters
+Keith Richards
+Jerry Lee Lewis
+James Page
+Donald Trump
+Bob Dylan
+Tim Staffell
+Vicky Taylor
+Greg Guy
+Gilmour
+Cyndi Lauper's
+Bruno Koschmider
+Reese Wynans
+Hannie Caulder
+Trey
+Doris Duke
+Emmylou Harris
+Carly Simon
+Waylon Jennings's
+Jack Bruce
+Muhammad Ali
+Joseph "Mojo" Morganfield
+Richard Chapman
+Bobby Whitlock
+Stephen Crawford
+Maxine Andrews
+Billy
+Jackie Wilson
+Sister Sledge
+Harrison
+Hamer
+Brandi Carlile
+Segovia
+Jerry
+Alphonso "Baby Boo" Young
+Hermann Hauser Sr.
+Auguste "Gusti
+Wolfgang
+W. C. Fields
+Gretsch Duo-Jet
+Allman
+Betts
+George Barnes
+Harry Styles
+Bill Carlisle
+Rodney Bingenheimer's
+Bonnie Raitt
+Seymour Stein
+Max Romeo's
+Samuel Charters
+Mike Bloomfield
+Whitesnake
+Jimmy James
+Noel
+Janna Lapidus
+Steve LaVere
+Jennings
+Berry Oakley
+Paco de Lucía
+Sling Blade
+Hall
+Little Walter
+Pearl Jam
+Ric Grech
+Ruby
+Rory Gallagher
+John Roads
+Alice
+Monica
+Andy Summers
+John Barham
+Paul McCartney
+Satriani
+Reinhardt
+Miles Davis
+Jethro Tull
+Django
+Billie Holiday
+Di Meola
+John Mayall
+Preston
+Taylor Goldsmith
+Jimmie Vaughan
+Chris White
+CDT
+Estella Coleman
+De Lucía
+Jeune homme
+Robert Plant
+Art Tatum
+Nicolette Larson
+Steve Winwood
+Billy Arnold's
+Metallica
+Harvey Goldsmith
+Jack Lawrence
+Glenda Collins
+Kilmichael
+Angus Young
+Layton
+Rodgers
+Malcolm Young
+Blue Moo
+Shakira
+Ken Thorne's
+Joe Bonamassa
+Curtis Knight
+Joe Cocker's
+Carl Perkins
+Leon Uris
+Rex Stewart
+King
+Bill Lewis
+John Hammond
+Futurama Grazioso
+Tommy
+Chris Hall
+Robert Fripp
+Ted Nugent
+Chet
+Death Angel
+T-Bone Walker
+Aretha Franklin's
+Koko Taylor
+Ridley Scott
+Otis Rush
+Bill Ward
+Pink Floyd's
+Debbie Harry
+Bill Ham
+John Anderson's
+swarmandal
+Hamilton
+Gallagher
+Alan Haynes
+Tangerine
+mandolin
+John
+Derek
+Kasuals
+John Mayall &
+Szabó
+Tommy Shannon's
+Bowie
+Pete Wingfield
+Tom Scott
+Ennio Morricone
+Chuck Berry
+Oteil Burbridge
+Léo Chauliac
+Debussy
+King Curtis
+Beverly Hills Cop III
+Dizzy Gillespie
+George Harrison's
+Rosie
+Castor
+G. E. Smith
+Rod Argent
+Lennon
+Queen
+Gibson
+Zucchero Fornaciari
+Laura Nyro
+Chaka Khan
+Don Felder
+Lou Levy
+Keith Altham
+Led Zeppelin's
+Jean "Poulette" Castro
+Andrés Segovia
+Elijah Wald
+Antone
+Eddie Lang
+Van Halen
+Robert Lockwood Jr.  Johnson
+Andrew Loog Oldham
+Francisco Tárrega
+David
+Peter Gunn
+Juan Serrano
+Rory
+Waits
+Puff Daddy's
+Mick Green
+Billy Powell
+Juliet
+Christopher Guest
+Louis Vola
+Gregg
+Scotty Moore
+Elliot Roberts
+Frank Zappa
+Steve Allen's
+George Formby
+Loretta Lynn's
+Bigsby
+Donna Roosman
+Coleman Hawkins
+Jack Sparrow
+de Lucía's
+Dunn
+Dave Mason
+B.B. King
+John Lennon's
+Herbie Hancock
+Amputechture
+Kinks
+John Bush
+Frémeaux
+Jude
+de Lucía
+Greezy Wheels
+Norah Jones
+Eddie Cantor
+Ginger Baker
+Olivia Jean
+Heinz
+Hubert Sumlin
+Mick Ronson
+Morello
+Richards
+Led Zeppelin
+Boz Scaggs
+Pete Townshend
+Blackmore
+Eddie Van Halen
+Formby
+Redding
+Conway
+Hank Marvin
+Lonnie Donegan's
+Eddie Cochran
+Bach
+Alan Fitzgerald
+Erik Crawford
+John Illsley
+Howard Stern
+Eric
+Bogert
+Zack
+de la Rocha
+Bob Daisley
+Engelbert Humperdinck's
+Richard
+Soweto Kinch
+Giorgio Gomelsky
+Eddie Van Halen's
+Elvis Presley
+Donovan
+Clapton
+Ramón
+Jimmie Vaughan's
+Ellis
+James Burton
+Carpenter
+Butch Trucks
+Jerry Wexler
+Jack Hylton
+David Williams
+Santana
+Elton John
+Jon Bon Jovi's
+Nico
+Pete Calvert
+Winston Churchill
+Paul Rodgers
+Joni Mitchell
+Tony Thompson
+Joe Venuti
+Hammett
+Angie
+Joe Sublett
+Folias
+Roy Harper's
+Deep Joy
+Emily
+StratocasterIommi
+E
+Dwight Yoakam
+Martin Barre
+Jamie Oldaker
+Bryan Ferry's
+Wolf Marshall
+Keith
+Alvin Lee
+Bátiz
+Tom
+Tedesco
+Hetfield
+Benny Carter
+Wolfmother
+Sainte-Marie
+Benson
+Fritz Kreisler
+Bernard
+Jesse Ed Davis
+Jürgen
+Karl
+Birdland
+Purdie
+Chris Stainton
+Pink Floyd
+Wilson Pickett
+Tom Wilson
+Paramounts
+Bantam Rooster
+Yoko Ono
+Bush
+Marcus Mumford
+Malcolm
+JB Hutto Montgomery Airline
+Vai
+Roger Waters'
+Johnny Mathis
+Roger Jones Quintet
+Django Reinhardt
+Grant
+Mick Taylor
+Glenn Worf
+Led Zeppelin Rockumentary
+Greenwood
+David McCallum
+Atkins
+Kay Hollowbody
+Michael Beinhorn
+Johnny Hallyday
+Alan Parsons
+Curtis Mayfield
+Chad Cromwell
+Robinson
+Holly Laessig
+Eric Andersen
+Phil Collins
+Pablos
+Lady Gaga
+Mary Anne
+Jim Gordon
+Cliff Richard
+Eros Ramazzotti's
+Pearl Jam's
+Norman Dayron
+Jimmy Reed
+Lee
+Stan Harrison
+Deep Purple
+Brian Johnson's
+Andrew Lloyd Webber
+Andy Aledort
+Steve Gadd
+Tommy Eyre
+Coricidin
+Bernard Edwards
+Roland
+Nile Rodgers
+Albert King
+Les Pauls
+Lulu
+Clarence Carter
+Ike Zimmerman
+Robert Randolph
+Chris Robinson
+Ronnie Wood
+Jess Wolfe
+Buffett
+Collins
+Jimi Hendrix
+Walter Trout
+Milt Buckner
+Travis
+Ramone
+Matt Rollings
+Johann Sebastian Bach
+John Williams
+Billy Bob Thornton
+Big
+Stephen
+Wanda Jackson's
+Gretsch Rancher Falcons
+Roland hexaphonic
+Bass VI
+Doyle Hargraves
+Emil Lager
+Pete Seeger
+Bobby Oats
+Jason Bonham
+Snowdon
+Jeff
+Bonamassa
+John Lennon
+Ann Powers
+Roger Taylor
+Shaun Murphy
+Leroy Vinnegar
+Johnson
+Berry
+Leslie 3300
+Chet Atkins
+Malcolm Austin
+Matt Dillon
+Walter Perkins
+Tony Iommi
+coliseums
+Herbie Mann
+Louis Riel Coffee House
+David Bowie
+Charlie Christian's
+Tom Murphy
+Roadie Byron Barr
+Eric Clapton's
+Danny Clinch
+Hart
+Rodríguez-López's
+Hagar
+Carlile
+William Howard Stovall
+Ian Stewart
+Chris Tidmarsh
+Fats Domino
+Kate Bush
+Jerry Garcia
+Benny Mason
+Moon
+Rodríguez-López
+Lonnie Mack
+Muddy
+Edwards
+Jimmie
+Hammond
+Scott
+Mildred Pierce
+Ímpetu
+Bo Diddley
+Nicky Hopkins
+Al Stewart
+Chris Dreja
+Randy Rhoads
+Guy Fletcher
+Maurice Alexander
+Said
+Chuck Berry's
+Tommy Shannon
+Peter Tork
+Joni
+Neil Christian
+Margaret
+Lazaretto
+Young
+Johnny Shines
+Rube Tronson's
+Gillis
+Martin
+Stuart Cockett
+Matt Sorum
+Andy Fry
+Telecaster
+Stevie Ray Vaughan
+Beatles
+Citizen Dick
+Dean Fertita
+cymbal crash
+Sandra Boynton's
+Carcass
+Jack Irons
+Kirk
+Mick Abrahams
+Fats Navarro
+Billy Smart
+Yuya Uchida's
+Chuck Mitchell
+Gretsch Rancher
+Sheila E.
+John Phillips's
+Bernie Marsden
+Baker
+Joseph
+Gretsch Tennessean
+Guy
+chitlin
+Clint Black's
+Shankar
+McCartney
+Swang
+Robby Krieger
+Al Kooper - Carlos
+Ralph Nader
+Mick Dewhirst
+Robert Johnson
+Allan Williams
+Wolf
+Carlos Santana
+Chase Bryant
+Jimmy Page's
+Taylor
+Vaughan
+Jean Vaissade
+Hammer
+Jeff Beck
+Chandler
+Paco
+Frusciante
+Wood
+Romeo
+Hermanos Conde
+Sam Cooke
+Aretha Franklin
+Dylan
+Barrett
+Forsyth
+Zappa
+James Blake
+Victor Marceau
+James Hetfield
+Sabbath Bloody
+Les Claypool
+George Harrison
+Juju
+Layla
+Beck
+Muldoon
+Robert
+Vedder
+John Kerry
+Albert Einstein
+Watts
+Daniel Gallagher
+Szabo
+Bob
+Steve Hackett's
+David Lee Roth
+Guralnick
+Gary
+Donovan Leitch's
+Steve Vai
+John Bonham's
+Gibson SG
+Lonnie Johnson
+Brian May
+Isleys
+Neil Murray
+Claude Nobs
+Calvin
+Waters
+Moore
+Delaney
+Joe
+Ed
+Marcy Levy
+Roy Harper
+Broonzy
+Buddy Miles
+Tommy Steele
+Malha
+Michael Bloomfield
+Joe Satriani
+it).The Layla
+Exodus
+Chris Farlowe
+Norma Jean Wright
+Conan
+Rita Coolidge
+Guiligou
+Mitchell
+Bruce
+Iommi
+Teague
+Charles Mingus
+Gary Boyle
+Ivan Neville's
+Oscar Moore
+Nathan East
+Alex the
+Presley
+Stevie
+Eddie Vedder
+un Gentilhombre
+John McGeoch
+Phineas Newborn
+Tony Busson
+Maharishi
+Samurai Futaba
+Red E. Lewis
+Tárrega
+Conan O'Brien
+Kerry Ellis
+Royston Ellis
+Greg Phillinganes
+Willie Coffee
+P. Rodgers
+Stevie Ray Vaughan's '
+Lionel Hampton
+Mick Jagger
+Montgomery
+Les Paul
+Floyd Rose
+Bob Dylan's
+Duane
+Sunshine Superman
+Bill Graham's
+Jennifer Batten
+Kossoff
+Fenders
+Van Zant
+Jack Casady
+Richard Bennett
+Al Kooper
+Osbourne
+Darrell Leonard
+Mahesh Yogi
+Ronnie Scott's
+Harper
+White
+Zeppelin
+Meg
+Johnny Winter
+Garni
+Jimmy Rogers
+Mario Escudero
+Esteban Sanlucar
+Stratocaster
+William
+Robert Cray
+Will Shade
+J'Attendrai
+Hendrix
+Je suis né dans la rue
+Page
+Butch Snipes
+Peter Green
+Fran Christina
+Charvels
+Ken Russell's
+Kristen Foster
+Alex
+Louis Armstrong
+Roy Buchanan Bluesmaster
+Danny Cummings
+John Lee Hooker
+Alexander
+diddley
+Bobby Broom
+John Mayer
+Monty Python
+Blake Mills
+Wynans
+Duane Allman
+Rick Grech
+Bill Broonzy
+Diana Ross
+Bruce Rowland
+Slim Harpo
+Tom Cruise
+Ian Paice
+Belushi
+Gene Vincent
+Beth Hart's
+Phillips
+Mayall
+Mammoth
+Sonny Boy Williamson
+Eric Clapton
+Gerry McAvoy
+Roger Chaput
+Gary Moore
+Adam Lambert
+Lenny
+Anna Mae
+Robert Okner
+Lucía Gomes
+Neil Sheehan
+Jeff Healey
+Don Airey
+Tim Renwick
+Devil
+Arthur
+Neil Young
+Gretsch
+Granger
+Nat King Cole
+Jagger
+Fontana
+Maury Deutsch
+Lars
+Strangely Strange
+Robert Christgau

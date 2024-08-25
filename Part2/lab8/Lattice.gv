@@ -1,0 +1,54 @@
+// <Lattice object of 8 atoms 12 concepts 1 coatoms at 0x7f60741e5f00>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel=rivera labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel="rivera.n.01"]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=baseball labelangle=270]
+	c2 -> c2 [color=transparent labelangle=90 taillabel="baseball.n.01"]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=pitcher labelangle=270]
+	c3 -> c3 [color=transparent labelangle=90 taillabel="pitcher.n.01"]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=seasons labelangle=270]
+	c4 -> c4 [color=transparent labelangle=90 taillabel="season.n.01"]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent headlabel=league labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel="league.n.01"]
+	c5 -> c0
+	c6
+	c6 -> c6 [color=transparent headlabel=york labelangle=270]
+	c6 -> c6 [color=transparent labelangle=90 taillabel="york.n.01"]
+	c6 -> c0
+	c7
+	c7 -> c7 [color=transparent headlabel=yankees labelangle=270]
+	c7 -> c7 [color=transparent labelangle=90 taillabel="yankee.n.01"]
+	c7 -> c0
+	c8
+	c8 -> c8 [color=transparent headlabel=career labelangle=270]
+	c8 -> c8 [color=transparent labelangle=90 taillabel="career.n.01"]
+	c8 -> c0
+	c9
+	c9 -> c9 [color=transparent labelangle=90 taillabel=verb]
+	c9 -> c4
+	c9 -> c5
+	c9 -> c8
+	c10
+	c10 -> c10 [color=transparent labelangle=90 taillabel=noun]
+	c10 -> c1
+	c10 -> c2
+	c10 -> c3
+	c10 -> c6
+	c10 -> c7
+	c10 -> c9
+	c11
+	c11 -> c11 [color=transparent headlabel=mariano labelangle=270]
+	c11 -> c10
+}
